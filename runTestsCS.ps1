@@ -28,3 +28,5 @@ If ($testClass) {
 } Else {
     nodemon --watch $testDllFullFileName --exec "`"$xunitConsole`" `"$testDllFullFileName`" || exit 1"
 }
+
+

@@ -105,3 +105,4 @@ if ($ccBuildErrors -ne $null)
     }
     throw "Errors found on the roslyn analysis"
 }
+

@@ -3,3 +3,4 @@
   <Rules AnalyzerId="CodeCracker.CSharp" RuleNamespace="CodeCracker.CSharp">
   </Rules>
 </RuleSet>
+

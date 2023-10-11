@@ -6,3 +6,4 @@
             $"https://code-cracker.github.io/diagnostics/{diagnosticId.ToDiagnosticId()}.html";
     }
 }
+
